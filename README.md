@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1929-concatenation-of-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1678-goal-parser-interpretation) |
