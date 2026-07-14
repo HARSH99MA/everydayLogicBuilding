@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
