@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1678-goal-parser-interpretation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
