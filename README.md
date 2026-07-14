@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0027-remove-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1470-shuffle-the-array) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
