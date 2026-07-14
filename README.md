@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1518-water-bottles](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
