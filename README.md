@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1518-water-bottles) |
+| [2235-add-two-integers](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
