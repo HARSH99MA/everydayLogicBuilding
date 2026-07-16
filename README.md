@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,8 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
