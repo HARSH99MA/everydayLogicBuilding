@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1108-defanging-an-ip-address) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 ## Binary Search
