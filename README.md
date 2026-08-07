@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
@@ -114,9 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
