@@ -1,15 +1,24 @@
 class Solution {
-    public int climbStairs(int n) {
-       int a = 0;
-       int b = 1;
-       int c = 0;
-       for(int i = 0; i< n ;i++){
-        int temp = b;
-         c = a+b;
-        a = b;
-        b = c;
+     int dp[];
+    private int solve(int n ){
+       
+        if(n <= 1){
+            return 1;
+        }
+        if(dp[n] != -1){
+            return dp[n];
+        }
+      dp[n]= solve(n-1) + solve(n-2);
+      return dp[n];
 
-       }
-       return c;
+
+    }
+
+    public int climbStairs(int n) {
+         dp = new int[n+1];
+        Arrays.fill(dp , -1);
+        Arrays.fill(dp, -1);
+        return solve(n);
+       
     }
 }
