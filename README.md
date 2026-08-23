@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0509-fibonacci-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0485-max-consecutive-ones) |
@@ -110,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0922-sort-array-by-parity-ii) |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/HARSH99MA/everydayLogicBuilding/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
